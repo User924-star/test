@@ -98,7 +98,7 @@ int main(void)
 			if(HAL_GPIO_ReadPin(GPIOA,GPIO_PIN_0) == RESET)
 			{
 				HAL_GPIO_TogglePin(GPIOC,GPIO_PIN_13);
-			}		
+			}
 		}
     /* USER CODE END WHILE */
 
