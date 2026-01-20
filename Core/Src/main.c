@@ -99,7 +99,7 @@ int main(void)
 			{
 				HAL_GPIO_TogglePin(GPIOC,GPIO_PIN_13);
 			}
-		}
+		}//
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
